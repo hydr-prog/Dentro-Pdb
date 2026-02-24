@@ -361,7 +361,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ setAppState, landingLa
             <div className="container mx-auto px-6 text-center">
                 <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-8 text-sm font-bold text-gray-500 dark:text-gray-400">
                     <a 
-                        href="https://dentro-privacy.vercel.app/"
+                        href="https://dentro-privacy.koovic.com/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-primary-600 transition flex items-center gap-1.5"
